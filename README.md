@@ -1,5 +1,4 @@
-# Jogo UltraPong
-## Primeiro projeto/jogo 
+# Jogo UltraPong 
 ### FECAP - Ciência da Computação
 
 
