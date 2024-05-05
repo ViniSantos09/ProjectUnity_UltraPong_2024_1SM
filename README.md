@@ -1,7 +1,8 @@
-# Jogo UltraPong 
-### FECAP - Ciência da Computação
+# Game UltraPong 
+### FECAP - Ciência da Computação (Computer Science)
 
-Primeito jogo desenvolvido em Unity 3D com C#.
+Primeiro jogo desenvolvido em Unity 3D usando C#.
+EN: First game developed in Unity 3D using C#.
 
 
 
