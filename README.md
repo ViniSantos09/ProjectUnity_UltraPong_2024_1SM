@@ -4,7 +4,9 @@
 Primeiro jogo desenvolvido em Unity 3D usando C#. 
 
 EN: First game developed in Unity 3D using C#.
-
+----
+Executável:
+src/Build Program/UnityProject.exe
 
 
 # License
